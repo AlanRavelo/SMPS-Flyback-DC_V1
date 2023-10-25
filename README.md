@@ -17,7 +17,3 @@ Esta fuente de alimentación es adecuada para una variedad de aplicaciones, como
 ## Documentación
 
 Para obtener más información técnica, esquemas eléctricos y detalles sobre el diseño, consulte los archivos y documentos en este repositorio.
-
-## Licencia
-
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
