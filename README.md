@@ -6,9 +6,7 @@
 
 Este repositorio contiene información sobre el diseño de fuente conmutada de entrada monofásica, con topología Flyback, diseñada para proporcionar una salida de 5 VDC / 4.8 A.
 
-Una fuente de alimentación con topología Flyback es un dispositivo que convierte una tensión de entrada en una tensión de salida deseada. Esta fuente de alimentación ha sido diseñada para suministrar una corriente continua de 4.8 amperios a una tensión de salida constante de 5V.
-
-El funcionamiento se basa en que el tranformador aprovecha la propiedad de transformación electromagnética para convertir la energía rectificada en un voltaje de salida 5V. Para lograr esto, se utiliza una fuente de conmutación representado por el [TNY290P](https://www.power.com/sites/default/files/documents/tinyswitch-4_family_datasheetTW.pdf), el cual genera un almacenamiento de energía en el núcleo magnético del tranformador durante una fase y liberada en la siguiente. Este cambio en el voltaje del inductor induce una tensión más baja en el lado secundario del transformador, que se rectifica y filtra para obtener una corriente continua más suave y estable.
+El funcionamiento se basa en que el tranformador flyback aprovecha la propiedad de transformación electromagnética para convertir la energía rectificada en un voltaje de salida establecido. Para lograr esto, se utiliza una fuente de conmutación representado por el [TNY290P](https://www.power.com/sites/default/files/documents/tinyswitch-4_family_datasheetTW.pdf), el cual genera un almacenamiento de energía en el núcleo magnético del tranformador durante una fase y liberada en la siguiente. Esto produce un cambio de voltaje del inductor primario e induce una tensión más baja en el lado secundario del transformador, que se rectifica y filtra para obtener una corriente continua más suave y estable.
  
 ## Uso
 
