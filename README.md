@@ -6,7 +6,7 @@ Diseño de fuente con topología flyback
 
 
 
-# Fuente de Alimentación Flyback - 5V, 4.8A
+# Fuente de Alimentación Flyback - 5V / 4.8A
 
 Este repositorio contiene información sobre una fuente de alimentación entrada monofásica AC, con topología Flyback, diseñada para proporcionar una salida de 5VDC a 4.8A.
 
