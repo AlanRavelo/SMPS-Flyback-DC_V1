@@ -17,13 +17,11 @@ El funcionamiento de una fuente SMPS se basa en un tranformador flyback, el cual
 * Controles industriales
 * Iluminación LED
 * Adaptadores inteligentes
-* Medición.
+* Medición
 
 ## Referencias
-* PI Expert Online
+*  PI Expert Online
 * [DESIGN CONSIDERATIONS FOR FLYBACK TRANSFORMER](https://www.we-online.com/files/pdf1/design-considerations-for-flyback-transformer.pdf)
 * [Würth Elektronik](https://www.we-online.com/en/components/products)
 * [KiCad.org](https://www.kicad.org/)
 * [FreeCad](https://www.freecad.org/)
-
-**Para obtener más información técnica, esquemas eléctricos y detalles sobre el diseño, consulte los archivos y documentos en este repositorio.
