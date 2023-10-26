@@ -8,9 +8,15 @@ Este repositorio contiene información sobre el diseño de fuente conmutada de e
 
 El funcionamiento se basa en que el tranformador flyback aprovecha la propiedad de transformación electromagnética para convertir la energía rectificada en un voltaje de salida establecido. Para lograr esto, se utiliza una fuente de conmutación representado por el [TNY290P](https://www.power.com/sites/default/files/documents/tinyswitch-4_family_datasheetTW.pdf), el cual genera un almacenamiento de energía en el núcleo magnético del tranformador durante una fase y liberada en la siguiente. Esto produce un cambio de voltaje del inductor primario e induce una tensión más baja en el lado secundario del transformador, que se rectifica y filtra para obtener una corriente continua más suave y estable.
  
-## Uso
+## Aplicaciones
 
-Esta fuente de alimentación es adecuada para una variedad de aplicaciones, como cargadores de dispositivos móviles, sistemas de iluminación LED y otros dispositivos electrónicos que requieren una fuente de alimentación confiable con estas especificaciones.
+Esta fuente conmutada es adecuada para una variedad de aplicaciones como:
+* Electrodomésticos
+* Aplicaciones de retorno sin conexión
+* Controles industriales
+* Iluminación LED
+* Adaptadores inteligentes
+* Medición.
 
 ## Documentación
 
