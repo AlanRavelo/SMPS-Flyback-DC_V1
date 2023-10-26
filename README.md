@@ -12,7 +12,6 @@ El funcionamiento de una fuente SMPS se basa en un tranformador flyback, el cual
  
 ## Aplicaciones
 
-Esta fuente conmutada es adecuada para una variedad de aplicaciones como:
 * Electrodomésticos
 * Aplicaciones de retorno sin conexión
 * Controles industriales
