@@ -20,6 +20,11 @@ Esta fuente conmutada es adecuada para una variedad de aplicaciones como:
 * Adaptadores inteligentes
 * Medición.
 
-## Documentación
+## Referencias
+* PI Expert Online
+* [DESIGN CONSIDERATIONS FOR FLYBACK TRANSFORMER](https://www.we-online.com/files/pdf1/design-considerations-for-flyback-transformer.pdf)
+* [Würth Elektronik](https://www.we-online.com/en/components/products)
+* [KiCad.org](https://www.kicad.org/)
+* [FreeCad](https://www.freecad.org/)
 
-Para obtener más información técnica, esquemas eléctricos y detalles sobre el diseño, consulte los archivos y documentos en este repositorio.
+**Para obtener más información técnica, esquemas eléctricos y detalles sobre el diseño, consulte los archivos y documentos en este repositorio.
